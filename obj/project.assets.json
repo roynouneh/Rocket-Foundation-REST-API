@@ -7652,11 +7652,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/user/github/Rocket_Elevators_REST_API/Rocket_Elevators_REST_API.csproj",
+      "projectUniqueName": "/home/user/github/Rocket-Foundation-REST-API/Rocket_Elevators_REST_API.csproj",
       "projectName": "Rocket_Elevators_REST_API",
-      "projectPath": "/home/user/github/Rocket_Elevators_REST_API/Rocket_Elevators_REST_API.csproj",
+      "projectPath": "/home/user/github/Rocket-Foundation-REST-API/Rocket_Elevators_REST_API.csproj",
       "packagesPath": "/home/user/.nuget/packages/",
-      "outputPath": "/home/user/github/Rocket_Elevators_REST_API/obj/",
+      "outputPath": "/home/user/github/Rocket-Foundation-REST-API/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/user/.nuget/NuGet/NuGet.Config"

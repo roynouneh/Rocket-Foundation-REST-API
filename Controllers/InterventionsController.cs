@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
-using Interventions.Models;
+using Rocket_Elevators_REST_API.Models;
 
 namespace Rocket_Elevators_REST_API.Controllers
 {
@@ -13,9 +13,9 @@ namespace Rocket_Elevators_REST_API.Controllers
     [ApiController]
     public class InterventionsController : ControllerBase
     {
-        private readonly MySqlConnectionContext _context;
+        private readonly MySqlConnectorContext _context;
 
-        public InterventionsController(MySqlConnectionContext context)
+        public InterventionsController(MySqlConnectorContext context)
         {
             _context = context;
         }
